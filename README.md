@@ -1,3 +1,10 @@
+<p align="center">
+	<img width="800" height="350"  src="https://github.com/user-attachments/assets/02f980f6-58ce-4beb-9897-d68f8c5ba044"
+</p>
+
+
+
+
 # EXTRACTING INVOICE DATA FROM PDF
 
 ### MOTIVATION
@@ -36,15 +43,24 @@ However, the benefits are not solely financial. By automating this task, the com
 
 
 ### IMAGES
-The invoice structure: \
-![alt text](<files/Data Mapping.png>)
 
-Invoice interpretation of summary: \
-![alt text](pdf_interpret.png)
+**The invoice structure:**
+<p align="center">
+	<img width="800" height="1000"  src="files/Data Mapping.png"
+</p>
+
+
+
+**Invoice interpretation of summary:**
+<p align="center">
+	<img width="800" height="1000"  src="pdf_interpret.png"
+</p>
+
+ 
 
 **First look at extraction of the summary:**
 <p align="center">
-	<img width="800" height="150"  src="first_look.png"
+	<img width="500" height="150"  src="first_look.png"
 </p>
 
   
