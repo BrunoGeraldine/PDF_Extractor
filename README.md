@@ -42,8 +42,20 @@ The invoice structure: \
 Invoice interpretation of summary: \
 ![alt text](pdf_interpret.png)
 
-First look at extraction of the summary: \
-![alt text](first_look.png)
+**First look at extraction of the summary:**
+<p align="center">
+	<img width="800" height="150"  src="first_look.png"
+</p>
 
-Final table: \
-![alt text](final_table.png)
+  
+**Final table:**
+<p align="center">
+	<img width="1800" height="150"  src="final_table.png"
+</p>
+
+
+### **Main Language:**  
+Python:  
+<p align="left">
+	<img width="145" height="30"  src="https://github.com/user-attachments/assets/ef05e827-5b73-491a-9771-bd36f3b0bea5"
+	     </p>
